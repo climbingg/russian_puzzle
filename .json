@@ -1,0 +1,260 @@
+[
+    {
+        "label": "H7",
+        "shape": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1
+            ]
+        ],
+        "order": "7",
+        "color_hex": "#FF0000",
+        "color_name": "red"
+    },
+    {
+        "label": "O6",
+        "shape": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "order": "6",
+        "color_hex": "#DBFF2F",
+        "color_name": "greenyellow"
+    },
+    {
+        "label": "F5",
+        "shape": [
+            [
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1
+            ],
+            [
+                0,
+                1,
+                0
+            ]
+        ],
+        "order": "5",
+        "color_hex": "#EE82EE",
+        "color_name": "violet"
+    },
+    {
+        "label": "Y5",
+        "shape": [
+            [
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                0,
+                1,
+                0,
+                0
+            ]
+        ],
+        "order": "5",
+        "color_hex": "#00FF00",
+        "color_name": "lime"
+    },
+    {
+        "label": "V5",
+        "shape": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0
+            ],
+            [
+                1,
+                0,
+                0
+            ]
+        ],
+        "order": "5",
+        "color_hex": "#FFC0CB",
+        "color_name": "pink"
+    },
+    {
+        "label": "U5",
+        "shape": [
+            [
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "order": "5",
+        "color_hex": "#0000FF",
+        "color_name": "blue"
+    },
+    {
+        "label": "N5",
+        "shape": [
+            [
+                1,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                1
+            ]
+        ],
+        "order": "5",
+        "color_hex": "#FF8C00",
+        "color_name": "darkorange"
+    },
+    {
+        "label": "L5",
+        "shape": [
+            [
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0
+            ]
+        ],
+        "order": "5",
+        "color_hex": "#008000",
+        "color_name": "green"
+    },
+    {
+        "label": "Z5",
+        "shape": [
+            [
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1
+            ]
+        ],
+        "order": "5",
+        "color_hex": "#FFFF00",
+        "color_name": "yellow"
+    },
+    {
+        "label": "O4",
+        "shape": [
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "order": "4",
+        "color_hex": "#FFD700",
+        "color_name": "gold"
+    },
+    {
+        "label": "T4",
+        "shape": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                0,
+                1,
+                0
+            ]
+        ],
+        "order": "4",
+        "color_hex": "#800080",
+        "color_name": "purple"
+    },
+    {
+        "label": "Z4",
+        "shape": [
+            [
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1
+            ]
+        ],
+        "order": "4",
+        "color_hex": "#00FFFF",
+        "color_name": "cyan"
+    },
+    {
+        "label": "L4",
+        "shape": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0
+            ]
+        ],
+        "order": "4",
+        "color_hex": "#00BFFF",
+        "color_name": "deepskyblue"
+    }
+]
